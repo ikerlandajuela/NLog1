@@ -2,8 +2,10 @@
 
 Uso de [NLog](http://nlog-project.org/) como sistema de trazas
 
-Ver post [NLog: Sistema de logging gratuito y de código abierto para .Net](https://ikerlandajuela.wordpress.com/2017/07/23/nlog-sistema-de-logging-gratuito-y-de-codigo-abierto-para-net/)
+Ver posts 
 
+* [NLog: Sistema de logging gratuito y de código abierto para .Net](https://ikerlandajuela.wordpress.com/2017/07/23/nlog-sistema-de-logging-gratuito-y-de-codigo-abierto-para-net/)
+* [NLog1 C#: Configuración versión de la aplicación con App.Config](https://ikerlandajuela.wordpress.com/2017/08/05/nlog1-c-configuracion-version-de-la-aplicacion-con-app-config/)
 
 ## Desarrollo
 
